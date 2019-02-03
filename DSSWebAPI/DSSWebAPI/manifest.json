@@ -1,0 +1,20 @@
+﻿{
+  "name": "DSS Project",
+  "short_name": "DSS WEB API",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#c62309",
+  "background_color": "#c62309",
+  "icons": [
+     {
+      "src": "images/logoSmart.png",
+      "sizes": "600x314",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logoSmart.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

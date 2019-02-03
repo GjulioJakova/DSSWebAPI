@@ -1,0 +1,128 @@
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll.config
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.pdb
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\csc.exe
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\csc.exe.config
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\csc.rsp
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\csi.exe
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\csi.exe.config
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\csi.rsp
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Console.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\vbc.exe
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\vbc.rsp
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.resources.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.csprojAssemblyReference.cache
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.csproj.CopyComplete
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.pdb
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\RDotNet.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\RDotNet.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.xml
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.dll
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.pdb
+C:\Users\Luca Agatensi\source\repos\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.pdb
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll.config
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.pdb
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\RDotNet.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.pdb
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\RDotNet.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.resources.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\admin\progettoDSSDef\dsswebapi\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\RDotNet.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\RDotNet.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.pdb
