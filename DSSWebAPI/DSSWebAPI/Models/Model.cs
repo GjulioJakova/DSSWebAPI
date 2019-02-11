@@ -13,9 +13,19 @@ namespace DSSWebAPI.Models {
 		GAPInstance GAP;
 		BasicHeu bh;
 		string dataDirectory = (string) AppDomain.CurrentDomain.GetData("DataDirectory");
+        REngine en;
+        public Model()
+        {
+            StartupParameter rinit = new StartupParameter();
+            rinit.Quiet = true;
+            rinit.RHome = "C:\\Program Files\\R\\R-3.4.2\\";
+            rinit.Interactive = true;
+            REngine.SetEnvironmentVariables();
+            en = REngine.GetInstance(null, true, rinit);
 
+        }
 
-		public string solveInstance(string selection, string param) {
+        public string solveInstance(string selection, string param) {
 			string dataDirectory = (string) AppDomain.CurrentDomain.GetData("DataDirectory");
 			string path = dataDirectory + "\\" + selection + ".json";
 
@@ -150,9 +160,7 @@ namespace DSSWebAPI.Models {
 
         public NumericVector computerRScript(string file, string seasonality, string startingYear)
         {
-            REngine.SetEnvironmentVariables();
-            // There are several options to initialize the engine, but by default the following suffice:
-            REngine en = REngine.GetInstance();
+            
             string ddr = dataDirectory.Replace("\\", "/");
             //en.Evaluate("install.packages('tseries')");
             //en.Evaluate("install.packages('forecast')");
@@ -164,8 +172,7 @@ namespace DSSWebAPI.Models {
             en.Evaluate("myfc <- forecast(ARIMAfit1, h = " + startingYear + ")");
             en.Evaluate("forecast <- myfc$mean");
             NumericVector forcastedValues = en.GetSymbol("forecast").AsNumeric();
-            return forcastedValues;
-
+            return forcastedValues; 
         }
 
     }

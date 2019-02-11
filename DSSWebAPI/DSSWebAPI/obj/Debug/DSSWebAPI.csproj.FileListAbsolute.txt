@@ -126,3 +126,29 @@ C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\
 C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.dll
 C:\Users\admin\Documents\Visual Studio 2015\Projects\DSSDef\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.pdb
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll.config
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\DSSWebAPI.pdb
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\RDotNet.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\DynamicInterop.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.pdb
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\LinqStatistics.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\RDotNet.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\RDotNet.NativeLibrary.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.resources.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.dll
+C:\Users\admin\DSSWebAPI\DSSWebAPI\DSSWebAPI\obj\Debug\DSSWebAPI.pdb
